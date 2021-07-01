@@ -1,0 +1,1 @@
+# Tubes_Sister_MPI-for-costumer-sequence-with-rank-thread-and-Process-paralell
