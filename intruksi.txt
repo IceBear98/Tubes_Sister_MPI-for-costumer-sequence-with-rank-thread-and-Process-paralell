@@ -1,0 +1,6 @@
+Instruksi penggunaan  :
+Penggunaan MPI untuk sequence costumer menggunakan rank , thread dan parallel process
+
+
+pengunaan library mpi4py
+menggunakan python shell atau spyder
